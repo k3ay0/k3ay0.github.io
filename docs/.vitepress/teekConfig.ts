@@ -18,7 +18,7 @@ export const teekConfig = defineTeekConfig({
     descStyle: "types",
   },
   blogger: {
-    avatar: "avatar.webp",
+    avatar: "/avatar.webp",
     shape: "square",
     name: "k3ay0",
     slogan: "探索前端边界，守护安全底线，思考AI未来",
