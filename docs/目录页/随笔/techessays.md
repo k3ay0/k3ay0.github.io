@@ -1,10 +1,10 @@
 ---
-title: 关于
-date: 2024-01-01 00:00:00
-permalink: /essays/
+title: 技术随笔
+date: 2026-06-01 00:00:00
+permalink: /techessays/
 catalogue: true
 layout: TkCataloguePage
-path: 随笔
+path: 随笔/技术随笔
 sidebar: false
 article: false
 comment: false

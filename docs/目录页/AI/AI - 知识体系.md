@@ -1,6 +1,6 @@
 ---
 title: AI - 知识体系
-date: 2024-01-01 00:00:00
+date: 2026-06-01 00:00:00
 permalink: /ai/
 catalogue: true
 layout: TkCataloguePage

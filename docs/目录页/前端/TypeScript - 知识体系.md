@@ -1,6 +1,6 @@
 ---
 title: TypeScript - 知识体系
-date: 2022-08-30 23:00:59
+date: 2026-06-01 00:00:00
 permalink: /typescript/
 catalogue: true
 layout: TkCataloguePage

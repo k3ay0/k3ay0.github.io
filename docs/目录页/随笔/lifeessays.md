@@ -1,10 +1,10 @@
 ---
-title: 关于
+title: 生活随笔
 date: 2026-06-01 00:00:00
-permalink: /about/
+permalink: /lifeessays/
 catalogue: true
 layout: TkCataloguePage
-path: 关于
+path: 随笔/生活随笔
 sidebar: false
 article: false
 comment: false

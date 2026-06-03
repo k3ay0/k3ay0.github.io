@@ -10,7 +10,7 @@ import GlobalGreet from "./GlobalGreet.vue";
 const { frontmatter } = useData();
 
 // 页脚运行时间
-const { start: startRuntime, stop: stopRuntime } = useRuntime("2024-01-01", {
+const { start: startRuntime, stop: stopRuntime } = useRuntime("2026-06-01", {
   prefix: `<span style="width: 16px; display: inline-block; vertical-align: -3px; margin-right: 3px;">${clockIcon}</span>珪瞳雑感已运行 `,
 });
 
