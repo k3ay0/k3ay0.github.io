@@ -1,3 +1,16 @@
+---
+title: Linux系统管理实战：sudo、systemd与系统配置
+date: 2026-06-03 00:00:00
+permalink: /tool/linux-system-admin
+categories:
+  - 工具
+tags:
+  - Linux
+  - sudo
+  - systemd
+  - 系统管理
+---
+
 # Linux系统管理实战：sudo、systemd与系统配置
 
 Linux系统管理涉及系统配置、权限管理、服务管理等多个方面。看似简单，但细节很多。

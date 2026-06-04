@@ -1,3 +1,16 @@
+---
+title: Web安全攻防实战：SQL注入、XSS与反序列化漏洞
+date: 2026-06-03 00:00:00
+permalink: /security/web-security
+categories:
+  - 安全
+tags:
+  - Web安全
+  - SQL注入
+  - XSS
+  - 反序列化
+---
+
 # Web安全攻防实战：SQL注入、XSS与反序列化漏洞
 
 Web安全是渗透测试的重要组成部分。随着Web应用的普及，针对Web的攻击也越来越多。

@@ -1,3 +1,15 @@
+---
+title: Vue.js 核心概念与实战指南
+date: 2026-06-03 00:00:00
+permalink: /frontend/vue
+categories:
+  - 前端
+tags:
+  - Vue.js
+  - 响应式
+  - 组件化
+---
+
 # Vue.js 核心概念与实战指南
 
 Vue.js 是一个渐进式 JavaScript 框架，它的设计哲学是自底向上增量开发。与 React 和 Angular 相比，Vue 更容易上手，同时具备足够的灵活性来构建复杂的单页应用。本文将深入探讨 Vue 的核心概念，帮助你从入门走向精通。

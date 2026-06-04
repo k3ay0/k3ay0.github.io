@@ -1,3 +1,16 @@
+---
+title: Windows开发环境配置实战：WSL、PowerShell与终端工具
+date: 2026-06-03 00:00:00
+permalink: /tool/windows-terminal
+categories:
+  - 工具
+tags:
+  - WSL
+  - PowerShell
+  - 终端
+  - Wezterm
+---
+
 # Windows开发环境配置实战：WSL、PowerShell与终端工具
 
 在Windows环境下做开发，终端配置是绕不开的话题。WSL让我们能在Windows上使用Linux环境，PowerShell是Windows原生的脚本工具，而Wezterm等现代终端则提供了更好的使用体验。

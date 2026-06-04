@@ -1,3 +1,15 @@
+---
+title: React 开发实战指南
+date: 2026-06-03 00:00:00
+permalink: /frontend/react
+categories:
+  - 前端
+tags:
+  - React
+  - JSX
+  - Hooks
+---
+
 # React 开发实战指南
 
 React 是 Facebook 推出的用于构建用户界面的 JavaScript 库。它通过组件化、声明式编程和虚拟 DOM 等理念，彻底改变了前端开发的方式。本文将深入探讨 React 的核心概念和实战技巧。

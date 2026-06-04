@@ -1,3 +1,16 @@
+---
+title: Linux网络配置排错指南：iptables、VPN与DNS
+date: 2026-06-03 00:00:00
+permalink: /tool/linux-network
+categories:
+  - 工具
+tags:
+  - Linux
+  - iptables
+  - VPN
+  - DNS
+---
+
 # Linux网络配置排错指南：iptables、VPN与DNS
 
 Linux网络配置是运维和开发的基础技能。网络不通、DNS解析失败、防火墙配置错误等问题经常让人头疼。

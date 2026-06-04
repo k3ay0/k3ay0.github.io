@@ -1,3 +1,15 @@
+---
+title: Vite 构建工具深入指南
+date: 2026-06-03 00:00:00
+permalink: /frontend/vite
+categories:
+  - 前端
+tags:
+  - Vite
+  - ESM
+  - 前端工程化
+---
+
 # Vite 构建工具深入指南
 
 Vite 是下一代前端构建工具，它利用浏览器原生 ES 模块和 esbuild 预构建，实现了极快的开发服务器启动速度。相比 Webpack，Vite 的开发体验有了质的飞跃。本文将深入探讨 Vite 的核心原理和实战技巧。
