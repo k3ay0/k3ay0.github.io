@@ -2,7 +2,7 @@
 
 前端与 AI 安全技术博客，基于 [VitePress](https://vitepress.dev/) + [vitepress-theme-teek](https://github.com/Kele-Bingtang/vitepress-theme-teek) 构建。
 
-站点地址：<https://notes.teek.top>
+访问地址：<https://k3ay0.github.io/>/<https://k3ay0.vercel.app/>
 
 ## 技术栈
 
