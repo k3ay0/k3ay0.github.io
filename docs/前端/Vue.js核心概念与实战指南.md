@@ -5,7 +5,7 @@ permalink: /frontend/vue
 categories:
   - 前端
 tags:
-  - Vue.js
+  - Vue
   - 响应式
   - 组件化
 ---
@@ -42,6 +42,7 @@ const doubleCount = computed(() => count.value * 2)
 **依赖收集与触发更新**
 
 Vue 的响应式系统包含三个核心角色：
+
 - **ReactiveEffect**：副作用函数，当依赖变化时重新执行
 - **Track**：收集依赖，记录哪些数据被哪些副作用使用
 - **Trigger**：触发更新，当数据变化时通知相关副作用
