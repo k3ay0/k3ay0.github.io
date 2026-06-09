@@ -5,7 +5,7 @@ export default {
     {
       text: "基础",
       items: [
-        { text: "TypeScript", link: "/typescript/" },
+        { text: "前端 只是体系", link: "/frontend/" },
       ],
     },
   ],
